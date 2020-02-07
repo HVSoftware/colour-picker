@@ -1,0 +1,13 @@
+{
+    "name": "hvsoftware/colour-picker",
+    "description": "Get a list of colours",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Harry van der Valk",
+            "email": "info@hvsoftware.nl"
+        }
+    ],
+    "require": {}
+}
